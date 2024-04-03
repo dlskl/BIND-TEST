@@ -1,1 +1,1 @@
-print("hello")
+print("web 짱이다")
